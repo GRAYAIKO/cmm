@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.name{
+    text-align: center;
+    color: rgb(5, 158, 179);
+    filter: drop-shadow(0 0 2px #3cff00);
+}
+
+.home-img{
+    text-align: center;
+}
+
+.img {
+    padding-top: 30px;
+    text-align: center;
+    width: 200px;
+    border-radius: 30% 30% 30% 30%;
+    filter: drop-shadow(0 0 20px green);
+}
+
+.facebook{
+   width: 20px;
+   padding-top: 20px;
+   padding-left: 150px;
+}
